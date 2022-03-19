@@ -1,6 +1,6 @@
 {
   "id": "majsoulEngTiles",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "마작패 숫자 표기",
   "author": "소사희",
   "description": "일섭에서 글로벌 서버처럼\n패 우상단에 숫자를 표기합니다.\n\n",
