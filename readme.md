@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/luviels/majsoulEngTiles/blob/main/readme_preview.png?raw=true)
 
-일섭에서 글섭의 아라비아 숫자가 포함된 마작패로 교체하는 Majsoul Plus용 Resource Pack입니다.
+일섭에서 글섭의 아라비아 숫자가 포함된 마작패로 교체하는 Resource Pack입니다.
 (author: 소사희)
 
 순정 글섭 마작패의 자패 영문표기는 제거한 새로운 버전입니다.
