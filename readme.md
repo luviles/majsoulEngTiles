@@ -9,7 +9,7 @@
 
 ## 적용법
 ### Majsoul Plus에서 적용하려면
-- [release](https://github.com/luviels/majsoulEngTiles/releases/tag/1.0.0)에서 mspr 파일을 받습니다
+- [release](https://github.com/luviels/majsoulEngTiles/releases)에서 mspr 파일을 받습니다
 - Majsoul Plus에 다운받은 파일을 드래그 앤 드롭하여 설치합니다
 
 ### userscript를 통하여 적용하려면 
