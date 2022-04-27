@@ -18,6 +18,9 @@
 - https://openuserjs.org/scripts/Luvie/Majsoul_Plus_ResourcePack_Loader_(JP)
 
 ## Patch Note
+### 1.1.1
+- 카구야 콜라보 마작패 반영
+
 ### 1.1.0
 - 기존 버전에는 자패의 영문 표시를 수동으로 지운 버전을 출시 하였으나, 글섭 사양으로 롤백 되었습니다.
   - 대응할 스킨이 많아져서 손이 많이 감
